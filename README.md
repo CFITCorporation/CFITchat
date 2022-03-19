@@ -1,6 +1,6 @@
 # CFITChat - Where Ideas Presented In Chatrooms  #
-View [Demo](http://f33-preview.awardspace.net/chat.cfit.top/ "Demo") Here...   
-  
+View [Demo](http://f33-preview.awardspace.net/chat.cfit.top/ "Demo")
+or [Demo2](http://cfit.epizy.com/cfitchat/ "Demo2") Here...     
 
 ## CFITChat - A simple, convenient, safe and private chat room. ##  
 ### **2 Steps To Start a New Chat!** ####  
